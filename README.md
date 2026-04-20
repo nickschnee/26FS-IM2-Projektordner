@@ -8,4 +8,4 @@ Entdecke meine Projekte hier:
 
 [Mein Portfolio 2](https://23b.ch)
 
-[Mein Portfolio 23](https://paradeyez.com)
+[Mein Portfolio 3](https://fhgr.ch)
