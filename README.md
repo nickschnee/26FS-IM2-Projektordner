@@ -1,7 +1,7 @@
 # 26FS-IM2-Projektordner
 
-## Subtitle
+## Mein Portfolio
 
-Paragraph
+Entdecke meine Projekte hier:
 
 [Mein Portfolio](https://nickschnee.ch)
