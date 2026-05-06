@@ -1,11 +1,3 @@
-# 26FS-IM2-Projektordner
+# 26FS-IM2 Cocktail-App
 
-## Mein Portfolio
-
-Entdecke meine Projekte hier:
-
-[Mein Portfolio](https://nickschnee.ch)
-
-[Mein Portfolio 2](https://23b.ch)
-
-[Mein Portfolio 3](https://fhgr.ch)
+Gemeinsames Projekt Cocktail-App
